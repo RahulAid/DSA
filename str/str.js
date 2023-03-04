@@ -29,7 +29,7 @@ for (var i=l.length-1;i>=0;i--)
 //console.log(rava)      //edc,dcb,cba
 rat =  rava.split(",")   //[ 'edc', 'dcb', 'cba' ]
 rat.reverse()   
-console.log(rat)
+console.log(rat)         //[ 'cba', 'dcb', 'edc' ]
 
 
 
