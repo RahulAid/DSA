@@ -10,5 +10,5 @@ function countDigit(n)
 }
   
   
-    n = 345289467;
+    n = 5289467;
     console.log("Number of digits : "+ countDigit(n));
